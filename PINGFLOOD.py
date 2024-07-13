@@ -1,10 +1,11 @@
+import os
 import ping3
 import time
 from colorama import init, Fore, Back, Style
 
 init()
 
-
+os.system('cls')
 
 print(Fore.RED + """### ##     ####   ###  ##   ## ##            ### ###  ####      ## ##    ## ##   ### ##   
  ##  ##     ##      ## ##  ##   ##            ##  ##   ##      ##   ##  ##   ##   ##  ##  
